@@ -1,2 +1,2 @@
-# 小霸王全套游戏
-### 童年的回忆
+# Subor - Xiaobawang Emulator & ROMs
+### This is a collection of Xiaobawang ROMs bundled with a Chinese Famicom Emulator
